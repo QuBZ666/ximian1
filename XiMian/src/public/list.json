@@ -1,0 +1,130 @@
+{
+    "arr1": [
+      {
+        "id": 11,
+        "num": 1,
+        "checkeds": false,
+        "img": "../../../static/shangpin1.jpg",
+        "much":680.00,
+        "title": "伊芙丽毛领保暖羽绒服女冬季新款1",
+        "many": 4288,
+        "xiaoliang": 128
+      },
+      {
+        "id": 12,
+        "num": 1,
+        "checkeds": false,
+        "img": "../../../static/yifuli2.webp",
+        "much": 2680.00,
+        "title": "伊芙丽毛领保暖羽绒服女冬季新款2",
+        "many": 4288,
+        "xiaoliang": 128
+      },
+      {
+        "id": 13,
+        "num": 1,
+        "checkeds": false,
+        "img": "../../../static/yifuli3.webp",
+        "much": 680.00,
+        "title": "伊芙丽毛领保暖羽绒服女冬季新款3",
+        "many": 4288,
+        "xiaoliang": 128
+      }
+    ],
+    "arr2": [
+      {
+        "id": 21,
+        "num": 1,
+        "checkeds": false,
+        "img": "../../../static/shangpin2.jpg",
+        "much": 3680.00,
+        "title": "伊芙丽毛领保暖羽绒服女冬季新款1",
+        "many": 4288,
+        "xiaoliang": 128
+      },
+      {
+        "id": 22,
+        "num": 1,
+        "checkeds": false,
+        "img": "../../../static/shangpin2.jpg",
+        "much": 3680.00,
+        "title": "伊芙丽毛领保暖羽绒服女冬季新款2",
+        "many": 4288,
+        "xiaoliang": 12
+      },
+      {
+        "id": 23,
+        "num": 1,
+        "checkeds": false,
+        "img": "../../../static/shangpin2.jpg",
+        "much": 1680.00,
+        "title": "伊芙丽毛领保暖羽绒服女冬季新款3",
+        "many": 4288,
+        "xiaoliang": 128
+      }
+    ],
+    "arr3": [
+      {
+        "id": 31,
+        "num": 1,
+        "checkeds": false,
+        "img": "../../../static/ywo.jpeg",
+        "much": 3680.00,
+        "title":  "伊芙丽毛领保暖羽绒服女冬季新款",
+        "many": 88,
+        "xiaoliang": 12
+      },
+      {
+        "id": 32,
+        "num": 1,
+        "checkeds": false,
+        "img": "../../../static/ywo.jpeg",
+        "much": 3680.00,
+        "title": "伊芙丽毛领保暖羽绒服女冬季新款" ,
+        "many": 4088,
+        "xiaoliang": 128
+      },
+      {
+        "id": 33,
+        "num": 1,
+        "checkeds": false,
+        "img": "../../../static/ywo.jpeg",
+        "much": 680.00,
+        "title": "伊芙丽毛领保暖羽绒服女冬季新款",
+        "many": 4288,
+        "xiaoliang": 128
+      }
+    ],
+    "arr4": [
+      {
+        "id": 41,
+        "num": 1,
+        "checkeds": false,
+        "img": "../../../static/one.jpeg",
+        "much": 3680.00,
+        "title": "伊芙丽毛领保暖羽绒服女冬季新款",
+        "many": 3288,
+        "xiaoliang": 128
+      },
+      {
+        "id": 42,
+        "num": 1,
+        "checkeds": false,
+        "img": "../../../static/one.jpeg",
+        "much": 1680.00,
+        "title": "伊芙丽毛领保暖羽绒服女冬季新款",
+        "many": 4288,
+        "xiaoliang": 128
+      },
+      {
+        "id": 43,
+        "num": 1,
+        "checkeds": false,
+        "img": "../../../static/one.jpeg",
+        "much": 2680.00,
+        "title": "伊芙丽毛领保暖羽绒服女冬季新款",
+        "many": 4288,
+        "xiaoliang": 128
+      }
+    ]
+  }
